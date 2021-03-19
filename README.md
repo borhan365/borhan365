@@ -7,6 +7,8 @@
 ---
 My Recent Works
 ---
+>  Newspaper Projects
+***
 1. ✅ [Newspaper Website: - VoiceWorld24.Com](https://www.voiceworld24.com)
 2. ✅ [Newspaper Website: - ChalamanNewyork.Com](https://www.chalamannewyork.com)
 3. ✅ [Newspaper Website: - OursTV.Net](https://www.ourstv.net)
@@ -14,7 +16,10 @@ My Recent Works
 5. ✅ [Newspaper Website: - PreyoPathok.Com](https://preyopathok.com/)
 6. ✅ [Newspaper Website: - NogarNews.Com](https://nagornews.com/)
 7. ✅ [Magazine Website: - ValorSathe.Com](https://valorsathe.com/)
-8. ✅ [E-Commerce Website: - BDBabaShopping.Com](https://bdbabashopping.com)
+
+>  E-Commerce Projects
+***
+1. ✅ [E-Commerce Website: - BDBabaShopping.Com](https://bdbabashopping.com)
 
 <!---
 borhan365/borhan365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
