@@ -7,8 +7,14 @@
 ---
 My Recent Works
 ---
-1. [Newspaper Website: - VoiceWorld24.Com](https://www.voiceworld24.com)
-2. [E-Commerce Website: - BDBabaShopping.Com](https://bdbabashopping.com)
+1. ✅ [Newspaper Website: - VoiceWorld24.Com](https://www.voiceworld24.com)
+2. ✅ [Newspaper Website: - ChalamanNewyork.Com](https://www.chalamannewyork.com)
+3. ✅ [Newspaper Website: - OursTV.Net](https://www.ourstv.net)
+4. ✅ [Newspaper Website: - RajneetiBD.Com](https://www.rajneetibd.com)
+5. ✅ [Newspaper Website: - PreyoPathok.Com](https://preyopathok.com/)
+6. ✅ [Newspaper Website: - NogarNews.Com](https://nagornews.com/)
+7. ✅ [Magazine Website: - ValorSathe.Com](https://valorsathe.com/)
+8. ✅ [E-Commerce Website: - BDBabaShopping.Com](https://bdbabashopping.com)
 
 <!---
 borhan365/borhan365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
