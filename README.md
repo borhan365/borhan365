@@ -15,6 +15,7 @@ My Recent Works
 4. ✅ [RajneetiBD.Com](https://www.rajneetibd.com)
 5. ✅ [PreyoPathok.Com](https://preyopathok.com/)
 6. ✅ [NogarNews.Com](https://nagornews.com/)
+7. ✅ [New Creative Design Demo](https://news.mdborhanuddin.com/)
 
 > ### Magazine Projects
 * ✅ [ValorSathe.Com](https://valorsathe.com/)
