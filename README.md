@@ -28,7 +28,7 @@ My Recent Works
 * ✅ [DiscountAche](https://discountache.com/)
 
 > ### Company Portfolio Projects
-* ✅ [DiscountAche](https://navieasoft.com/)
+* ✅ [Navieasoft Ltd](https://navieasoft.com/)
 
 > ### Booking Projects
 * ✅ [Comming Soon](#)
