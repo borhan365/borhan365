@@ -15,7 +15,8 @@ My Recent Works
 4. ✅ [RajneetiBD.Com](https://www.rajneetibd.com)
 5. ✅ [PreyoPathok.Com](https://preyopathok.com/)
 6. ✅ [NogarNews.Com](https://nagornews.com/)
-7. ✅ [New Creative Design Demo](https://news.mdborhanuddin.com/)
+7. ✅ [Creative Design Demo](https://news.mdborhanuddin.com/)
+8. ✅🔥 [Another New Design](https://borhan365.github.io/2021-newspaper-html/) 🔥 ✅
 
 > ### Magazine Projects
 * ✅ [ValorSathe.Com](https://valorsathe.com/)
@@ -36,7 +37,6 @@ My Recent Works
 > ### E-Commerce Projects
 
 1. ✅ [E-Commerce Website: - BDBabaShopping.Com](https://bdbabashopping.com)
-2. 
 
 <!---
 borhan365/borhan365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
