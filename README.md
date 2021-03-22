@@ -7,7 +7,7 @@
 ---
 My Recent Works
 ---
-> ### Newspaper Projects
+> ### Newspaper Projects (WordPresss custom theme development)
 
 1. ✅ [VoiceWorld24.Com](https://www.voiceworld24.com)
 2. ✅ [ChalamanNewyork.Com](https://www.chalamannewyork.com)
@@ -18,23 +18,23 @@ My Recent Works
 7. ✅ [Creative Design Demo](https://news.mdborhanuddin.com/)
 8. ✅🔥 [Another New Design](https://borhan365.github.io/2021-newspaper-html/) 🔥 ✅
 
-> ### Magazine Projects
+> ### Magazine Projects (WordPresss custom theme development)
 * ✅ [ValorSathe.Com](https://valorsathe.com/)
 
 
-> ### Curriar Projects
-* ✅ [E-courier Demo](https://courier.mdborhanuddin.com/)
+> ### Curriar Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
+* ✅ [E-courier Demo](http://dexpressbd.com/)
 
-> ### Discount Projects
+> ### Discount Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
 * ✅ [DiscountAche](https://discountache.com/)
 
-> ### Company Portfolio Projects
+> ### Company Portfolio Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
 * ✅ [Navieasoft Ltd](https://navieasoft.com/)
 
-> ### Booking Projects
+> ### Booking Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
 * ✅ [Comming Soon](#)
 * 
-> ### E-Commerce Projects
+> ### E-Commerce Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
 
 1. ✅ [E-Commerce Website: - BDBabaShopping.Com](https://bdbabashopping.com)
 
