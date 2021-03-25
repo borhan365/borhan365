@@ -15,7 +15,7 @@ My Recent Works
 4. ✅ [RajneetiBD.Com](https://www.rajneetibd.com)
 5. ✅ [PreyoPathok.Com](https://preyopathok.com/)
 6. ✅ [NogarNews.Com](https://nagornews.com/)
-7. ✅ [Creative Design Demo](https://news.mdborhanuddin.com/)
+7. ✅ [Bandarban Journal](https://news.mdborhanuddin.com/)
 8. ✅🔥 [Another New Design](https://borhan365.github.io/2021-newspaper-html/) 🔥 ✅
 
 > ### Upcomming (REACT JS Personal website)
@@ -24,9 +24,11 @@ My Recent Works
 > ### Pixel Perfect Cloning (HTML Template)
 * ✅ [My Personal Webiste](https://borhan365.github.io/profile/)
 
+> ### Affiliate Website (HTML Template)
+* ✅ [My Personal Webiste](https://affiliate.mdborhanuddin.com/)
+
 > ### Magazine Projects (WordPresss custom theme development)
 * ✅ [ValorSathe.Com](https://valorsathe.com/)
-
 
 > ### Curriar Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
 * ✅ [E-courier Demo](http://dexpressbd.com/)
