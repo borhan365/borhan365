@@ -21,6 +21,9 @@ My Recent Works
 > ### Upcomming (REACT JS Personal website)
 * ✅ [My Personal Webiste](https://borhan365.github.io/personal-website-html/)
 
+> ### Pixel Perfect Cloning (HTML Template)
+* ✅ [My Personal Webiste](https://borhan365.github.io/profile/)
+
 > ### Magazine Projects (WordPresss custom theme development)
 * ✅ [ValorSathe.Com](https://valorsathe.com/)
 
