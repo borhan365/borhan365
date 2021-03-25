@@ -32,7 +32,7 @@ My Recent Works
 * ✅ [E-courier Demo](http://dexpressbd.com/)
 
 > ### Discount Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
-* ✅ [DiscountAche](https://discountache.com/)
+* 🎁 [DiscountAche](https://discountache.com/)
 
 > ### Company Portfolio Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
 * ✅ [Navieasoft Ltd](https://navieasoft.com/)
@@ -42,7 +42,18 @@ My Recent Works
 * 
 > ### E-Commerce Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
 
-1. ✅ [E-Commerce Website: - BDBabaShopping.Com](https://bdbabashopping.com)
+1. ✅ [E-Commerce Website - 01 ](https://bdbabashopping.com)
+2. ✅ [E-Commerce Website - 02 ]()
+3. ✅ [E-Commerce Website - 03 ]()
+4. ✅ [E-Commerce Website - 04 ]()
+5. ✅ [E-Commerce Website - 05 ]()
+6. ✅ [E-Commerce Website - 06 ]()
+7. ✅ [E-Commerce Website - 07 ]()
+8. ✅ [E-Commerce Website - 08 ]()
+9. ✅ [E-Commerce Website - 09 ]()
+10. ✅ [E-Commerce Website - 10 ]()
+11. ✅ [E-Commerce Website - 11 ]()
+12. ✅ [E-Commerce Website - 12 ]()
 
 <!---
 borhan365/borhan365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
