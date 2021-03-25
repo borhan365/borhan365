@@ -23,7 +23,8 @@ My Recent Works
 * ✅ [My Personal Webiste](https://borhan365.github.io/profile/)
 
 > ### Affiliate Website (HTML Template)
-* ✅ [My Personal Webiste](https://affiliate.mdborhanuddin.com/)
+* 💰 [Territory Supply](https://affiliate.mdborhanuddin.com/)
+* 💰 [Bikegeeky](https://borhan365.github.io/bikegeeky/)
 
 > ### Magazine Projects (WordPresss custom theme development)
 * ✅ [ValorSathe.Com](https://valorsathe.com/)
