@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Md Borhan Uddin
-- 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning ... React JS
-- 💞️ I’m looking to collaborate on ... React Native
-- 📫 How to reach me ... [Webiste](https://www.mdborhanuddin.com)
+- 📫 How to reach me ... Email me: info.mdborhan@gmail.com
 
 ---
 My Recent Works
