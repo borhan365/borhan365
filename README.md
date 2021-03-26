@@ -13,8 +13,10 @@ My Recent Works
 4. ✅ [RajneetiBD.Com](https://www.rajneetibd.com)
 5. ✅ [PreyoPathok.Com](https://preyopathok.com/)
 6. ✅ [NogarNews.Com](https://nagornews.com/)
-7. ✅ [Bandarban Journal](https://news.mdborhanuddin.com/)
-8. ✅🔥 [Another New Design](https://borhan365.github.io/2021-newspaper-html/) 🔥 ✅
+7. ✅ [AmarMirsarai](https://borhan365.github.io/amarmirsarai/)
+8. ✅ [Bandarban Journal](https://news.mdborhanuddin.com/)
+9. ✅🔥 [Another New Design](https://borhan365.github.io/2021-newspaper-html/) 🔥 
+
 
 > ### Upcomming (REACT JS Personal website)
 * ✅ [My Personal Webiste](https://borhan365.github.io/personal-website-html/)
