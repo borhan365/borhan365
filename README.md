@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Md Borhan Uddin
-- 🌱 I’m currently learning ... React JS
+- 👋 Hi, Welcome! This is Md Borhan Uddin
+- 🌱 I’m currently learning ... MERN STACK
 - 📫 How to reach me ... Email me: info.mdborhan@gmail.com
+- Or [visit](https://mdborhanuddin.com/)
 
 ---
 My Recent Works
 ---
-> ### Newspaper Projects (WordPresss custom theme development)
+> ### Recent Projects (WordPresss custom theme development && HTML Designs)
 
 1. ✅ [SafelyTea](https://borhan365.github.io/safely-tea/)
 2. ✅ [ChalamanNewyork.Com](https://www.chalamannewyork.com)
@@ -15,37 +16,21 @@ My Recent Works
 6. ✅ [NogarNews.Com](https://nagornews.com/)
 7. ✅ [AmarMirsarai](https://borhan365.github.io/amarmirsarai/)
 8. ✅ [Bandarban Journal](https://chtpost.com/)
-9. ✅🔥 [Another New Design](https://borhan365.github.io/2021-newspaper-html/) 🔥 
+9. ✅ [News Design](https://borhan365.github.io/2021-newspaper-html/)  
+10.✅ [NogorNews](https://nagornews.com/)
+11.✅ [Personal Website](https://borhan365.github.io/monzurul-hoque/)
 
-SafelyTea - - - Business website. 
-SuprobhatCtg - - - News Portal
-Ecommerce Design -- Affiliate 
-Chtpost.com --- News Portal
-ChalamanNewyork -- News Portal
-Chattogram Gazette -- News Portal
-Valorsathe -- Magazine 
-MonzurulHoque -- Personal Website
-NogorNews -- News Portal
-
-
-
-
-> ### Upcomming (REACT JS Personal website)
-* ✅ [My Personal Webiste](https://borhan365.github.io/personal-website-html/)
-
-> ### Pixel Perfect Cloning (HTML Template)
-* ✅ [My Personal Webiste](https://borhan365.github.io/profile/)
 
 > ### Affiliate Website (HTML Template)
 * 💰 [Bikegeeky](https://borhan365.github.io/bikegeeky/)
 
-> ### Curriar Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
+> ### Curriar Projects (Design)
 * ✅ [E-courier Demo](http://dexpressbd.com/)
 
-> ### Discount Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
+> ### Discount Projects (Design)
 * 🎁 [DiscountAche](https://discountache.com/)
 
-> ### Company Portfolio Projects (HTML, CSS, Font Awesome, Bootstrap, and Vanila JS)
+> ### Company Portfolio Projects (Design)
 * ✅ [Navieasoft Ltd](https://navieasoft.com/)
 
 <!---
