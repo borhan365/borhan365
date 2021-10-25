@@ -1,7 +1,7 @@
 - 👋 Hi, Welcome! This is Md Borhan Uddin
 - 🌱 I’m currently learning ... MERN STACK
 - 📫 How to reach me ... Email me: info.mdborhan@gmail.com
-- Or [visit 🌐 mdborhanuddin.com](https://mdborhanuddin.com/)
+- 🌐 Or visit [mdborhanuddin.com](https://mdborhanuddin.com/)
 
 ---
 My Recent Works
