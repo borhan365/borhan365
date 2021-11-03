@@ -28,6 +28,11 @@ My Recent Works
 > ### Curriar Projects (Design)
 * ✅ [E-courier Demo](http://dexpressbd.com/)
 
+> ### E-commerce (Design)
+* ✅ [Demo One](http://soboiache.com/)
+* ✅ [Demo Two](http://kazicourier.com/)
+* ✅ [Demo Three](http://www.kaziarman.com/)
+
 > ### Discount Projects (Design)
 * 🎁 [DiscountAche](https://discountache.com/)
 
