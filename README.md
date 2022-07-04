@@ -1,5 +1,5 @@
 - 👋 Hi, Welcome! This is Md Borhan Uddin
-- 🌱 I’m currently learning ... MERN STACK
+- 🌱 I’m currently exploring ... AI, DSA.
 - 📫 How to reach me ... Email me: info.mdborhan@gmail.com
 - 🌐 Or visit [mdborhanuddin.com](https://mdborhanuddin.com/)
 
@@ -11,11 +11,7 @@ My Recent Works
 1. ✅ [SafelyTea](https://borhan365.github.io/safely-tea/)
 2. ✅ [ChalamanNewyork.Com](https://www.chalamannewyork.com)
 3. ✅ [SuprobhatCtg](https://suprobhatctg.com/)
-4. ✅ [WooShop](https://borhan365.github.io/blue-commerce-html/)
-5. ✅ [PreyoPathok.Com](https://preyopathok.com/)
 6. ✅ [NogarNews.Com](https://nagornews.com/)
-7. ✅ [AmarMirsarai](https://borhan365.github.io/amarmirsarai/)
-8. ✅ [Bandarban Journal](https://chtpost.com/)
 9. ✅ [News Design](https://borhan365.github.io/2021-newspaper-html/)  
 10.✅ [NogorNews](https://nagornews.com/)
 
