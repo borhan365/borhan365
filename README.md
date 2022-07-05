@@ -4,6 +4,14 @@
 - 🌐 Or visit [mdborhanuddin.com](https://mdborhanuddin.com/)
 
 ---
+MERN Projects
+---
+> ### React JS, Next Js, Meterial UI, Styled Compontent, & TailwindCSS Designs.
+
+✅ [Ecommerce Design](https://next-shop-mauve-gamma.vercel.app/)
+✅ [News Portal Design](https://material-ui-newspaper.vercel.app/)
+
+---
 My Recent Works
 ---
 > ### Recent Projects (WordPresss custom theme development && HTML Designs)
