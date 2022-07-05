@@ -8,8 +8,8 @@ MERN Projects
 ---
 > ### React JS, Next Js, Meterial UI, Styled Compontent, & TailwindCSS Designs.
 
-✅ [Ecommerce Design](https://next-shop-mauve-gamma.vercel.app/)
-✅ [News Portal Design](https://material-ui-newspaper.vercel.app/)
+* ✅ [Ecommerce Design](https://next-shop-mauve-gamma.vercel.app/)
+* ✅ [News Portal Design](https://material-ui-newspaper.vercel.app/)
 
 ---
 My Recent Works
@@ -21,13 +21,8 @@ My Recent Works
 3. ✅ [SuprobhatCtg](https://suprobhatctg.com/)
 6. ✅ [NogarNews.Com](https://nagornews.com/)
 9. ✅ [News Design](https://borhan365.github.io/2021-newspaper-html/)  
-10.✅ [NogorNews](https://nagornews.com/)
+10.✅ [Web Development Agency Design](https://borhan365.github.io/chalaman-network/)
 
-11.✅ [Personal Website](https://borhan365.github.io/monzurul-hoque/)
-
-
-> ### Affiliate Website (HTML Template)
-* 💰 [Bikegeeky](https://borhan365.github.io/bikegeeky/)
 
 > ### Curriar Projects (Design)
 * ✅ [E-courier Demo](http://dexpressbd.com/)
