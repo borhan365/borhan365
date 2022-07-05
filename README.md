@@ -8,8 +8,8 @@ MERN Projects
 ---
 > ### React JS, Next Js, Meterial UI, Styled Compontent, & TailwindCSS Designs.
 
-* ✅ [Ecommerce Design](https://next-shop-mauve-gamma.vercel.app/)
-* ✅ [News Portal Design](https://material-ui-newspaper.vercel.app/)
+* 🛒 [Ecommerce Design](https://next-shop-mauve-gamma.vercel.app/)
+* 📰 [News Portal Design](https://material-ui-newspaper.vercel.app/)
 
 ---
 My Recent Works
